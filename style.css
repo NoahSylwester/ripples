@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.rippler {
+  background: url('image.JPG') no-repeat center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
